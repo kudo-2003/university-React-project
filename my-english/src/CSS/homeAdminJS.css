@@ -1,0 +1,13 @@
+.custom-table {
+    max-width: 1000px;
+  }
+  
+  .centered-div {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .centered-table {
+    margin: 0 auto;
+  }
+  
